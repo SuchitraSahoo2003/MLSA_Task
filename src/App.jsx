@@ -29,7 +29,7 @@ const siteProps = {
   email: "Suchitra.Sahoo@studentambassadors.com",
   gitHub: "SuchitraSahoo2003",
   instagram: "",
-  linkedIn: "https://www.linkedin.com/in/suchitra-sahoo-a60a05257/",
+  linkedIn: "suchitra-sahoo-a60a05257",
   medium: "",
   twitter: "",
   youTube: "",
