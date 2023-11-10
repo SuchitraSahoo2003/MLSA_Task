@@ -48,6 +48,12 @@ const projectList = [
       "Created frontend of a website for gym",
     url: "https://github.com/Suchitra-Sahoo/AnyTimeFitness-Gym",
   },
+  {
+    title: "Calculator",
+    description:
+      "Created a scientific calculator",
+    url: "https://suchitra-sahoo.github.io/codsoft/calculator",
+  }
   
 ];
 
